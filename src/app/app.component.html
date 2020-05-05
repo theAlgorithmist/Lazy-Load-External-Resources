@@ -1,0 +1,9 @@
+<ng-template #libsLoading>
+  <p>Loading libraries ...</p>
+</ng-template>
+
+<div *ngIf="libraryRef else libsLoading">
+  <div class="mt10 mainContainer main-border" reflect></div>
+  <button class="blue-button mt10" [disabled]="!available" (click)="onReflect()">Reflect</button>
+  <p class="instruction">{{instructions}}</p>
+</div>
