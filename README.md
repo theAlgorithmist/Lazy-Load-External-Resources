@@ -135,11 +135,11 @@ After loading, anything defined in the external script file is available as a pr
 
 Nothing new - _ng serve_ and _localhost:4200_.  The initial UI appears as follows,
 
-!['Before Reflect'](images/reflect-1.jpg)
+!['Before Reflect'](images/reflect-1.png)
 
 Click on the 'Reflect' button to reflect the point cloud about the line segment,
 
-!['After Reflect'](images/reflect-2.jpg)
+!['After Reflect'](images/reflect-2.png)
 
 ## Further help
 
