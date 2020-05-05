@@ -1,6 +1,6 @@
 # Angular 9 Lazy-Loading External Libraries and Styles
 
-This repo illustrates the complete end-to-end process of lazy-loading both external libraries (.js) and styles (.css) into an Angular 9 Component.  A 'lite' version of my client-only Angular Dev Toolkit lazy-loading library is provided with the distribution.  Error handling a couple very minor features have been removed from the client-proprietary version of this library.
+This repo illustrates the complete end-to-end process of lazy-loading both external libraries (.js) and styles (.css) from an Angular 9 Component.  A 'lite' version of my client-only Angular Dev Toolkit lazy-loading library is provided with the distribution.  Error handling a couple very minor features have been removed from the client-proprietary version of this library.
 
 Author:  Jim Armstrong - [The Algorithmist](https://www.linkedin.com/in/jimarmstrong/)
 
